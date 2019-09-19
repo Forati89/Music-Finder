@@ -6,7 +6,7 @@ import Search from './Search';
 const API_ADRESS = 'https://spotify-api-wrapper.appspot.com';
 
 class App extends Component {
-    state = {artist: null, tracks: []};
+        state = {artist: null, tracks: []};
 
     componentDidMount(){
         this.searchArtist('bruno');
@@ -29,7 +29,6 @@ class App extends Component {
         })
         .catch(error => alert(error.message));
     }
-
 
 
     render() {

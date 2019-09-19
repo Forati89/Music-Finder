@@ -1,22 +1,26 @@
 import React, { Component } from "react";
-import { Button, Input, Col, FormGroup, Container } from 'reactstrap';
-import { relative } from "path";
+import { Button } from 'reactstrap';
 
 class Search extends Component {
-    state = {artistQuery: ''}
+
+      state = {artistQuery: ''}
+
 
   handleKeyPress = event => {
     if (event.key === "Enter") this.searchArtist();
   };
 
+
   updateArtistQuery = event => {
-    console.log("event.target.value", event.target.value);
     this.setState({ artistQuery: event.target.value });
   };
 
   searchArtist = () => {
+
       this.props.searchArtist(this.state.artistQuery);
+
   }
+
 
   render() {
     return (

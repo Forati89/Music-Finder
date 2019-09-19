@@ -9,13 +9,13 @@ const Artist = ({ artist }) => {
         <div>
             <Container>
                 <Col sm={12}>
-                    <h3>{name}</h3>
-                    <p>{followers.total} followers</p>
+                    <h1>{name}</h1>
+                    <h3>{followers.total} followers</h3>
                     <p>{genres.join(', ')}</p>
                     <Row>
                     <Col sm="12" md={{ size: 6, offset: 3 }}>
                     <img
-                    src={images[0] && images[0].url}
+                    src={images && images[0].url}
                     alt='Artist'
                     style={{
                         width: 200,
