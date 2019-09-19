@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Music-Finder/static/css/main.56344ff2.chunk.css",
+    "main.js": "/Music-Finder/static/js/main.0004388e.chunk.js",
+    "main.js.map": "/Music-Finder/static/js/main.0004388e.chunk.js.map",
+    "runtime~main.js": "/Music-Finder/static/js/runtime~main.917f8457.js",
+    "runtime~main.js.map": "/Music-Finder/static/js/runtime~main.917f8457.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Music-Finder/static/css/2.266e55a5.chunk.css",
+    "static/js/2.eaf3874a.chunk.js": "/Music-Finder/static/js/2.eaf3874a.chunk.js",
+    "static/js/2.eaf3874a.chunk.js.map": "/Music-Finder/static/js/2.eaf3874a.chunk.js.map",
+    "index.html": "/Music-Finder/index.html",
+    "precache-manifest.d754fc87146f1c9a9f77063be98a6ec0.js": "/Music-Finder/precache-manifest.d754fc87146f1c9a9f77063be98a6ec0.js",
+    "service-worker.js": "/Music-Finder/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Music-Finder/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.56344ff2.chunk.css.map": "/Music-Finder/static/css/main.56344ff2.chunk.css.map",
+    "static/media/index.css": "/Music-Finder/static/media/roboto-condensed.light.cf4449c1.ttf"
+  }
+}
