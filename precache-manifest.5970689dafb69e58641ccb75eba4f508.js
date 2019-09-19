@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e4e049dd3de52b0bacfbb6a715babb3",
+    "revision": "96416f34c185ba46469a87d3c79a6af9",
     "url": "/Music-Finder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Music-Finder/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b0240586a5e59b92a80e",
+    "revision": "b5964499184889620d19",
     "url": "/Music-Finder/static/css/main.56344ff2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Music-Finder/static/js/2.eaf3874a.chunk.js"
   },
   {
-    "revision": "b0240586a5e59b92a80e",
-    "url": "/Music-Finder/static/js/main.0004388e.chunk.js"
+    "revision": "b5964499184889620d19",
+    "url": "/Music-Finder/static/js/main.315e0bd8.chunk.js"
   },
   {
     "revision": "8549d857e1cb41318a76",
