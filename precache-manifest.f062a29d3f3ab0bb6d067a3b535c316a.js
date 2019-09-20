@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96416f34c185ba46469a87d3c79a6af9",
+    "revision": "a97742c0c8e150764d5de5df6bdb5b19",
     "url": "/Music-Finder/index.html"
   },
   {
-    "revision": "1da5c8d768f248f0d297",
+    "revision": "6ef81f0aace67df8bb8d",
     "url": "/Music-Finder/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b5964499184889620d19",
+    "revision": "ca5edf28c307b917ceba",
     "url": "/Music-Finder/static/css/main.56344ff2.chunk.css"
   },
   {
-    "revision": "1da5c8d768f248f0d297",
-    "url": "/Music-Finder/static/js/2.eaf3874a.chunk.js"
+    "revision": "6ef81f0aace67df8bb8d",
+    "url": "/Music-Finder/static/js/2.bb0b8f8f.chunk.js"
   },
   {
-    "revision": "b5964499184889620d19",
-    "url": "/Music-Finder/static/js/main.315e0bd8.chunk.js"
+    "revision": "ca5edf28c307b917ceba",
+    "url": "/Music-Finder/static/js/main.28371558.chunk.js"
   },
   {
     "revision": "8549d857e1cb41318a76",
